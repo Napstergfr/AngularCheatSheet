@@ -3,15 +3,17 @@
 <p align="center">
   <img src="https://raw.githubusercontent.com/angular/angular/master/aio/src/assets/images/logos/angular/angular.png" alt="angular-logo" width="120px" height="120px"/>
   <br>
-  <i>Angular is a development platform for building mobile and desktop web applications
-    <br> using Typescript/JavaScript and other languages. -- <strong>Angular</strong>
-  </i>
+  <i>"Angular is a development platform for building mobile and desktop web applications
+    <br> using Typescript/JavaScript and other languages." --  <a href="https://angular.io/"><strong>Angular</strong></a>
+  </i> 
+<br>
+<br>
   <i>In this repository i will try to put all of the codes, commands, strategies & approches I freaquently use in my daily work.</i>
   <br>
 </p>
 
 <p align="center">
-  <a href="https://github.com/Napstergfr"><strong>Napster</strong></a>
+  <a href="https://www.facebook.com/napstergfr"><strong>Find me in facebook</strong></a>
   <br>
 </p>
 
@@ -26,8 +28,6 @@
     <img src="https://img.shields.io/discord/463752820026376202.svg?logo=discord&logoColor=fff&label=Discord&color=7389d8" alt="Discord conversation" />
   </a>
 </p>
-
-<hr>
 
 ---
 ## 1. [Angular CLI](CLI_Cheat_Sheet.md)
