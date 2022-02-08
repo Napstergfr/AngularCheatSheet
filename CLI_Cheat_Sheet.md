@@ -1,5 +1,11 @@
 # Angular CLI CheatSheet
 
+### * To Install Angular CLI
+```Bash
+npm install -g @angular/cli
+```
+> _NOTE: Don't use -g flag to install locally_
+
 ### * To Create New Angular App
 ```Bash
 ng new napster-app
