@@ -4,7 +4,7 @@
 ```Bash
 npm install -g @angular/cli
 ```
-> _NOTE: Don't use -g flag to install locally_
+> _NOTE: use -g flag for global installation & don't use -g flag to install locally_
 
 ### * To Create New Angular App
 ```Bash
