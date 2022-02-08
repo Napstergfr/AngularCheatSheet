@@ -3,9 +3,10 @@
 <p align="center">
   <img src="https://raw.githubusercontent.com/angular/angular/master/aio/src/assets/images/logos/angular/angular.png" alt="angular-logo" width="120px" height="120px"/>
   <br>
-  <i>Angular is a JavaScript framework for building mobile and desktop web applications
-    <br> using Typescript/JavaScript and other languages. In this repository i will try to put all of the codes, commands, strategies & approches I freaquently use in my daily work.
+  <i>Angular is a development platform for building mobile and desktop web applications
+    <br> using Typescript/JavaScript and other languages. -- <strong>Angular</strong>
   </i>
+  <i>In this repository i will try to put all of the codes, commands, strategies & approches I freaquently use in my daily work.</i>
   <br>
 </p>
 
