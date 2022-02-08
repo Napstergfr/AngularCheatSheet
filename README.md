@@ -1,5 +1,11 @@
 # Angular CLI CheatSheet
 
+### * To Create New Angular App
+```Bash
+ng new napster-app
+```
+> _NOTE: ng new napster-app(Your App Name)_
+
 ### * To Generate New Routing Module
 ```Bash
 ng g m auth/AuthRouting --route --flat --module=auth
@@ -16,8 +22,10 @@ const routes: Routes = []
 ### * To Generate New Module
 ```Bash
 ng g m AuthModule
+or
+ng g m AuthModule --flat
 ```
-> _NOTE: ng g m AuthModule(New Module Name)_
+> _NOTE: ng g m AuthModule(New Module Name) "--flat" this flag is to put the module into the directory root_
 
 ### * To Generate New Component
 ```Bash
