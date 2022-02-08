@@ -4,8 +4,15 @@
 ```Bash
 ng g m auth/AuthRouting --route --flat --module=auth
 ```
-> _NOTE: ng g m auth(Folder Name)/AuthRouting(New routing module name) --route --flat(To ignore creation extra folder for routing module) --module=auth (Module name to attach with)_
+> _NOTE: ng g m auth(Folder Name)/AuthRouting(New routing module name) --route --flat(To ignore creation extra folder for routing module) --module=auth (Module name to attach with) Please user the code below if you want use this route as a child route_
+```Typesript
+const routes: Routes = []
 
+@NgModule({
+  imports: [RouterModule.forChild(routes)],
+  exports: [RouterModule]
+})
+```
 ### * To Generate New Module
 ```Bash
 ng g m AuthModule
