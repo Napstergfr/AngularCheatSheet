@@ -1,25 +1,16 @@
-<h1 align="center">Angular - The modern web developer's platform.</h1>
+<h1 align="center">Angular CheatSheet for busy developers</h1>
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/angular/angular/master/aio/src/assets/images/logos/angular/angular.png" alt="angular-logo" width="120px" height="120px"/>
   <br>
-  <i>Angular is a development platform for building mobile and desktop web applications
-    <br> using Typescript/JavaScript and other languages.</i>
+  <i>Angular is a JavaScript framework for building mobile and desktop web applications
+    <br> using Typescript/JavaScript and other languages. In this repository i will try to put all of the codes, commands, strategies & approches I freaquently use in my daily work.
+  </i>
   <br>
 </p>
 
 <p align="center">
-  <a href="https://www.angular.io"><strong>www.angular.io</strong></a>
-  <br>
-</p>
-
-<p align="center">
-  <a href="CONTRIBUTING.md">Contributing Guidelines</a>
-  ·
-  <a href="https://github.com/angular/angular/issues">Submit an Issue</a>
-  ·
-  <a href="https://blog.angular.io/">Blog</a>
-  <br>
+  <a href="https://github.com/Napstergfr"><strong>Napster</strong></a>
   <br>
 </p>
 
@@ -37,6 +28,5 @@
 
 <hr>
 
-# Angular CheatSheet for busy developers
 ---
 ## 1. [Angular CLI](CLI_Cheat_Sheet.md)
