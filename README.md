@@ -1,8 +1,31 @@
 # Angular CLI CheatSheet
 
-### To Generate New Routing Module
+### * To Generate New Routing Module
 ```Bash
-ng generate module auth/AuthRouting --route --flat --module=auth
-
+ng g m auth/AuthRouting --route --flat --module=auth
 ```
-_ng generate module auth(Folder Name)/AuthRouting(New routing module name) --route --flat(To ignore creation extra folder for routing module) --module=auth (Module name to attach with)_
+> _NOTE: ng g m auth(Folder Name)/AuthRouting(New routing module name) --route --flat(To ignore creation extra folder for routing module) --module=auth (Module name to attach with)_
+
+### * To Generate New Module
+```Bash
+ng g m AuthModule
+```
+> _NOTE: ng g m AuthModule(New Module Name)_
+
+### * To Generate New Component
+```Bash
+ng g c user/AddUser
+```
+> _NOTE: ng g c user/AddUser(New component name)_
+
+### * To Generate New Guard
+```Bash
+ng g guard shared/Authguard
+```
+> _NOTE: ng g guard shared/Authguard(New Guard Name)_
+
+### * To Generate New Service
+```Bash
+ng g s shared/service/Auth
+```
+> _NOTE: ng g s shared/service/Auth(New service name)_
