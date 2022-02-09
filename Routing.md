@@ -1,3 +1,6 @@
+## App Routing Module
+> Use this approch for lazyloading
+>
 ```Javascript
 import { NgModule } from '@angular/core';
 import { RouterModule, Routes } from '@angular/router';
