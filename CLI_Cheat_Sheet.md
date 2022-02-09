@@ -33,6 +33,12 @@ ng g m AuthModule --flat
 ```
 > _NOTE: ng g m AuthModule(New Module Name) "--flat" this flag is to put the module into the directory root_
 
+### * To Generate New Interceptor
+```Bash
+ ng g interceptor shared/interceptors/NewInterceptor
+```
+> _NOTE:  ng g interceptor shared/interceptors/NewInterceptor(New interceptor name)_
+
 ### * To Generate New Component
 ```Bash
 ng g c user/AddUser
