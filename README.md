@@ -31,4 +31,5 @@
 
 ---
 ## 1. [Angular CLI](CLI_Cheat_Sheet.md)
-## 2. [Authentication](Auth_Cheat_Sheet.md)
+## 2. [Authentication](Auth_Cheat_Sheet.md) 
+## 3. [Routing](Routing.md)
