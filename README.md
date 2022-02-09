@@ -30,6 +30,6 @@
 </p>
 
 ---
-## 1. [Angular CLI](CLI_Cheat_Sheet.md)
-## 2. [Authentication](Auth_Cheat_Sheet.md) 
+## 1. [Angular CLI](CLI.md)
+## 2. [Authentication](Auth.md) 
 ## 3. [Routing](Routing.md)
