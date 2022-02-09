@@ -1,4 +1,4 @@
-# Auth CheatSheet
+# Authentication CheatSheet
 
 ### Auth service
 > RUN ```ng g s auth/Auth```
