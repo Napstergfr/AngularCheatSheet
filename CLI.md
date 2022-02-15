@@ -63,3 +63,14 @@ npm i -s @angular/flex-layout @angular/cdk
 ```
 > _NOTE: cdk is needed for flexLayout_
 
+> Don't Forget to import in app.module.ts
+```Javascript
+import { FlexLayoutModule } from '@angular/flex-layout';
+...
+
+@NgModule({
+    ...
+    imports: [ FlexLayoutModule ],
+    ...
+});
+```
