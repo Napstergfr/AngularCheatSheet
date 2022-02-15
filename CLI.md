@@ -56,3 +56,10 @@ ng g guard shared/Authguard
 ng g s shared/service/Auth
 ```
 > _NOTE: ng g s shared/service/Auth(New service name)_
+
+### * To Install flexLayout/gdColumn & cdk
+```Bash
+npm i -s @angular/flex-layout @angular/cdk
+```
+> _NOTE: cdk is needed for flexLayout_
+
