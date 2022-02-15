@@ -30,8 +30,10 @@ const routes: Routes = []
 ng g m AuthModule
 or
 ng g m AuthModule --flat
+or
+ng g m AuthModule --module=App
 ```
-> _NOTE: ng g m AuthModule(New Module Name) "--flat" this flag is to put the module into the directory root_
+> _NOTE: ng g m AuthModule(New Module Name) "--flat" this flag is to put the module into the directory root. The flag --module will automatically import this module to app module_
 
 ### * To Generate New Interceptor
 ```Bash
