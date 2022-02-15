@@ -33,7 +33,7 @@ ng g m AuthModule --flat
 or
 ng g m AuthModule --module=App
 ```
-> _NOTE: ng g m AuthModule(New Module Name) "--flat" this flag is to put the module into the directory root. The flag --module will automatically import this module to app module_
+> _NOTE: ng g m AuthModule(New Module Name) "--flat" this flag is to put the module into the directory root. The flag --module will automatically import this module to app module (N:B Shoudn't be imported to app module if you want to achive lazy loading)_
 
 ### * To Generate New Interceptor
 ```Bash
